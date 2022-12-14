@@ -4,6 +4,9 @@
  This software is released under the MIT License.
  https://opensource.org/licenses/MIT
 -->
+
+```bash
+
 ## install
 brew install mariadb
 
@@ -19,3 +22,4 @@ mysql -uroot
 ## upgrade 
 brew update
 brew upgrade mariadb
+```
